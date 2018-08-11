@@ -16,3 +16,4 @@ Credentials
 
 Tutorials
 https://www.djangoproject.com/
+https://flask-restful.readthedocs.io/en/latest/
