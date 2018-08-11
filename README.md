@@ -10,3 +10,9 @@ from:
 Credentials
   email : chrispesudas@gmail.com
   pass  : presinto
+
+
+
+
+Tutorials
+https://www.djangoproject.com/
